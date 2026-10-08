@@ -31,4 +31,4 @@ python_files = ["test_*.py"]
 pythonpath = ["."]
 
 [tool.vercel]
-entrypoint = "main.py:app"
+entrypoint = "main:app"
