@@ -29,3 +29,6 @@ asyncio_mode = "auto"
 testpaths = ["tests"]
 python_files = ["test_*.py"]
 pythonpath = ["."]
+
+[tool.vercel]
+entrypoint = "main.py:app"
