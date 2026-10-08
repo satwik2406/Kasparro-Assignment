@@ -1,0 +1,1838 @@
+{
+  "batch_summary": {
+    "total_resumes": 51,
+    "successfully_parsed": 51,
+    "eligible": 36,
+    "rejected": 15,
+    "failed_unreadable": 0,
+    "execution_time_seconds": 5.2
+  },
+  "ranked_shortlist": [
+    {
+      "rank": 1,
+      "candidate_name": "Gourab Das",
+      "eligible": true,
+      "total_score": 86,
+      "score_breakdown": {
+        "ai_project_depth": 36,
+        "python_backend": 28,
+        "cloud_fullstack": 14,
+        "github": 5,
+        "engineering_depth": 3
+      },
+      "matched_skills": [
+        "LangChain",
+        "LangGraph",
+        "RAG",
+        "Python",
+        "FastAPI",
+        "Flask",
+        "Django",
+        "PostgreSQL",
+        "Postgres",
+        "Redis",
+        "Kafka",
+        "REST API",
+        "Docker",
+        "AWS",
+        "CI/CD",
+        "GitHub Actions",
+        "React",
+        "Java",
+        "Spring Boot"
+      ],
+      "project_summary": "Built agentic workflows with tool calling and orchestration.",
+      "github_summary": "Recently active (1 events in last 90 days); 2 maintained Python/AI repositories.",
+      "strengths": [
+        "Evidence of advanced agentic systems, tool calling, or multi-agent workflows",
+        "Includes LLM / RAG evaluation logic",
+        "Strong FastAPI backend implementation"
+      ],
+      "concerns": [],
+      "applied_penalties": [],
+      "file_name": "candidate_17.pdf"
+    },
+    {
+      "rank": 2,
+      "candidate_name": "V Sree Raghu Vardhan",
+      "eligible": true,
+      "total_score": 85,
+      "score_breakdown": {
+        "ai_project_depth": 40,
+        "python_backend": 28,
+        "cloud_fullstack": 14,
+        "github": 0,
+        "engineering_depth": 3
+      },
+      "matched_skills": [
+        "LangChain",
+        "LangGraph",
+        "RAG",
+        "Retrieval-Augmented Generation",
+        "Vector Search",
+        "Pinecone",
+        "Embeddings",
+        "Evaluation",
+        "Python",
+        "FastAPI",
+        "Django",
+        "PostgreSQL",
+        "Postgres",
+        "Redis",
+        "REST API",
+        "Pydantic",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Azure",
+        "CI/CD",
+        "React",
+        "JavaScript",
+        "Node.js",
+        "Java"
+      ],
+      "project_summary": "Built agentic workflows with tool calling and orchestration.",
+      "github_summary": "GitHub profile @summary was not found (404).",
+      "strengths": [
+        "Evidence of advanced agentic systems, tool calling, or multi-agent workflows",
+        "Includes LLM / RAG evaluation logic",
+        "Strong FastAPI backend implementation"
+      ],
+      "concerns": [],
+      "applied_penalties": [],
+      "file_name": "candidate_30.pdf"
+    },
+    {
+      "rank": 3,
+      "candidate_name": "Hari Shanker Sharma",
+      "eligible": true,
+      "total_score": 85,
+      "score_breakdown": {
+        "ai_project_depth": 36,
+        "python_backend": 28,
+        "cloud_fullstack": 14,
+        "github": 4,
+        "engineering_depth": 3
+      },
+      "matched_skills": [
+        "LangChain",
+        "LangGraph",
+        "RAG",
+        "Vector Search",
+        "Qdrant",
+        "Embeddings",
+        "Function Calling",
+        "HuggingFace",
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "Postgres",
+        "Redis",
+        "REST API",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "GitHub Actions",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "CSS",
+        "Tailwind",
+        "Java"
+      ],
+      "project_summary": "Built agentic workflows with tool calling and orchestration.",
+      "github_summary": "Low recent public commit activity; 3 maintained Python/AI repositories.",
+      "strengths": [
+        "Evidence of advanced agentic systems, tool calling, or multi-agent workflows",
+        "Strong FastAPI backend implementation",
+        "Docker containerization experience"
+      ],
+      "concerns": [],
+      "applied_penalties": [],
+      "file_name": "candidate_41.pdf"
+    },
+    {
+      "rank": 4,
+      "candidate_name": "Yash Maini",
+      "eligible": true,
+      "total_score": 84,
+      "score_breakdown": {
+        "ai_project_depth": 40,
+        "python_backend": 22,
+        "cloud_fullstack": 13,
+        "github": 7,
+        "engineering_depth": 2
+      },
+      "matched_skills": [
+        "LangChain",
+        "LangGraph",
+        "RAG",
+        "Pinecone",
+        "FAISS",
+        "Embeddings",
+        "Tool Calling",
+        "Multi-Agent",
+        "PyTorch",
+        "TensorFlow",
+        "Fine-tuning",
+        "LoRA",
+        "Python",
+        "FastAPI",
+        "AsyncIO",
+        "Flask",
+        "PostgreSQL",
+        "Postgres",
+        "REST API",
+        "Docker",
+        "GCP",
+        "AWS",
+        "CI/CD",
+        "Terraform",
+        "Go"
+      ],
+      "project_summary": "Built agentic workflows with tool calling and orchestration.",
+      "github_summary": "Recently active (2 events in last 90 days); 16 maintained Python/AI repositories.",
+      "strengths": [
+        "Evidence of advanced agentic systems, tool calling, or multi-agent workflows",
+        "Includes LLM / RAG evaluation logic",
+        "Strong FastAPI backend implementation"
+      ],
+      "concerns": [
+        "Limited or missing Redis/caching experience"
+      ],
+      "applied_penalties": [],
+      "file_name": "candidate_13.pdf"
+    },
+    {
+      "rank": 5,
+      "candidate_name": "LinkedIn | Github",
+      "eligible": true,
+      "total_score": 83,
+      "score_breakdown": {
+        "ai_project_depth": 36,
+        "python_backend": 28,
+        "cloud_fullstack": 14,
+        "github": 0,
+        "engineering_depth": 5
+      },
+      "matched_skills": [
+        "LangGraph",
+        "RAG",
+        "ChromaDB",
+        "Chroma",
+        "Embeddings",
+        "Multi-Agent",
+        "Evaluation",
+        "PyTorch",
+        "TensorFlow",
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "Postgres",
+        "Redis",
+        "Celery",
+        "Kafka",
+        "REST API",
+        "Pydantic",
+        "gRPC",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "GitHub Actions",
+        "React",
+        "Next.js",
+        "Node.js"
+      ],
+      "project_summary": "Built agentic workflows with tool calling and orchestration.",
+      "github_summary": "GitHub profile @professional was not found (404).",
+      "strengths": [
+        "Evidence of advanced agentic systems, tool calling, or multi-agent workflows",
+        "Includes LLM / RAG evaluation logic",
+        "Strong FastAPI backend implementation"
+      ],
+      "concerns": [],
+      "applied_penalties": [],
+      "file_name": "candidate_35.pdf"
+    },
+    {
+      "rank": 6,
+      "candidate_name": "Candidate 10",
+      "eligible": true,
+      "total_score": 77,
+      "score_breakdown": {
+        "ai_project_depth": 32,
+        "python_backend": 24,
+        "cloud_fullstack": 8,
+        "github": 10,
+        "engineering_depth": 3
+      },
+      "matched_skills": [
+        "LangGraph",
+        "RAG",
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "Postgres",
+        "Redis",
+        "Azure",
+        "CI/CD",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js"
+      ],
+      "project_summary": "Built agentic workflows with tool calling and orchestration.",
+      "github_summary": "Recently active (30 events in last 90 days); 8 maintained Python/AI repositories.",
+      "strengths": [
+        "Evidence of advanced agentic systems, tool calling, or multi-agent workflows",
+        "Strong FastAPI backend implementation"
+      ],
+      "concerns": [],
+      "applied_penalties": [],
+      "file_name": "candidate_10.pdf"
+    },
+    {
+      "rank": 7,
+      "candidate_name": "Nevil Jasmin Mehta",
+      "eligible": true,
+      "total_score": 72,
+      "score_breakdown": {
+        "ai_project_depth": 30,
+        "python_backend": 28,
+        "cloud_fullstack": 12,
+        "github": 1,
+        "engineering_depth": 1
+      },
+      "matched_skills": [
+        "RAG",
+        "Qdrant",
+        "Embeddings",
+        "Python",
+        "FastAPI",
+        "Flask",
+        "Django",
+        "PostgreSQL",
+        "Postgres",
+        "Redis",
+        "Celery",
+        "Docker",
+        "AWS",
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Tailwind",
+        "Java"
+      ],
+      "project_summary": "Developed RAG retrieval system with vector database integration.",
+      "github_summary": "Low recent public commit activity; 18 public repositories.",
+      "strengths": [
+        "Practical exposure to RAG pipelines and vector database retrieval",
+        "Includes LLM / RAG evaluation logic",
+        "Strong FastAPI backend implementation"
+      ],
+      "concerns": [],
+      "applied_penalties": [],
+      "file_name": "candidate_50.pdf"
+    },
+    {
+      "rank": 8,
+      "candidate_name": "ARUNIMA SAHA",
+      "eligible": true,
+      "total_score": 71,
+      "score_breakdown": {
+        "ai_project_depth": 40,
+        "python_backend": 18,
+        "cloud_fullstack": 11,
+        "github": 0,
+        "engineering_depth": 2
+      },
+      "matched_skills": [
+        "LangChain",
+        "LangGraph",
+        "RAG",
+        "Vector Search",
+        "Pinecone",
+        "Embeddings",
+        "Tool Calling",
+        "Function Calling",
+        "Multi-Agent",
+        "Evaluation",
+        "Ragas",
+        "Transformers",
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "Postgres",
+        "REST API",
+        "Pydantic",
+        "Docker",
+        "Google Cloud",
+        "AWS"
+      ],
+      "project_summary": "Built agentic workflows with tool calling and orchestration.",
+      "github_summary": "GitHub profile @professional was not found (404).",
+      "strengths": [
+        "Evidence of advanced agentic systems, tool calling, or multi-agent workflows",
+        "Includes LLM / RAG evaluation logic",
+        "Strong FastAPI backend implementation"
+      ],
+      "concerns": [
+        "Limited or missing Redis/caching experience"
+      ],
+      "applied_penalties": [],
+      "file_name": "candidate_43.pdf"
+    },
+    {
+      "rank": 9,
+      "candidate_name": "Arjun Kumar",
+      "eligible": true,
+      "total_score": 70,
+      "score_breakdown": {
+        "ai_project_depth": 32,
+        "python_backend": 22,
+        "cloud_fullstack": 8,
+        "github": 7,
+        "engineering_depth": 1
+      },
+      "matched_skills": [
+        "LangChain",
+        "LangGraph",
+        "RAG",
+        "Embeddings",
+        "Evaluation",
+        "TensorFlow",
+        "Python",
+        "FastAPI",
+        "Django",
+        "PostgreSQL",
+        "Postgres",
+        "REST API",
+        "AWS",
+        "CI/CD",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "HTML",
+        "CSS",
+        "Java"
+      ],
+      "project_summary": "Built agentic workflows with tool calling and orchestration.",
+      "github_summary": "Recently active (3 events in last 90 days); 11 maintained Python/AI repositories.",
+      "strengths": [
+        "Evidence of advanced agentic systems, tool calling, or multi-agent workflows",
+        "Includes LLM / RAG evaluation logic",
+        "Strong FastAPI backend implementation"
+      ],
+      "concerns": [
+        "Limited or missing Redis/caching experience"
+      ],
+      "applied_penalties": [],
+      "file_name": "candidate_08.pdf"
+    },
+    {
+      "rank": 10,
+      "candidate_name": "HARSHA A",
+      "eligible": true,
+      "total_score": 69,
+      "score_breakdown": {
+        "ai_project_depth": 30,
+        "python_backend": 18,
+        "cloud_fullstack": 12,
+        "github": 9,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Evaluation",
+        "TensorFlow",
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "Postgres",
+        "REST API",
+        "Docker",
+        "Azure",
+        "React",
+        "JavaScript",
+        "Node.js",
+        "HTML",
+        "CSS",
+        "Java"
+      ],
+      "project_summary": "Developed RAG retrieval system with vector database integration.",
+      "github_summary": "Recently active (30 events in last 90 days); 3 maintained Python/AI repositories.",
+      "strengths": [
+        "Practical exposure to RAG pipelines and vector database retrieval",
+        "Includes LLM / RAG evaluation logic",
+        "Strong FastAPI backend implementation"
+      ],
+      "concerns": [
+        "Limited or missing Redis/caching experience"
+      ],
+      "applied_penalties": [],
+      "file_name": "candidate_15.pdf"
+    },
+    {
+      "rank": 11,
+      "candidate_name": "Vivek Chimnani",
+      "eligible": true,
+      "total_score": 69,
+      "score_breakdown": {
+        "ai_project_depth": 28,
+        "python_backend": 28,
+        "cloud_fullstack": 10,
+        "github": 2,
+        "engineering_depth": 1
+      },
+      "matched_skills": [
+        "LangGraph",
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "Postgres",
+        "Redis",
+        "REST API",
+        "Docker",
+        "CI/CD",
+        "Linux",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "HTML",
+        "CSS",
+        "Rust"
+      ],
+      "project_summary": "Built agentic workflows with tool calling and orchestration.",
+      "github_summary": "Low recent public commit activity; 1 maintained Python/AI repositories.",
+      "strengths": [
+        "Evidence of advanced agentic systems, tool calling, or multi-agent workflows",
+        "Strong FastAPI backend implementation",
+        "Docker containerization experience"
+      ],
+      "concerns": [],
+      "applied_penalties": [],
+      "file_name": "candidate_44.pdf"
+    },
+    {
+      "rank": 12,
+      "candidate_name": "Candidate 28",
+      "eligible": true,
+      "total_score": 68,
+      "score_breakdown": {
+        "ai_project_depth": 32,
+        "python_backend": 18,
+        "cloud_fullstack": 15,
+        "github": 0,
+        "engineering_depth": 3
+      },
+      "matched_skills": [
+        "LangChain",
+        "LangGraph",
+        "RAG",
+        "Retrieval-Augmented Generation",
+        "Multi-Agent",
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "Postgres",
+        "REST API",
+        "GraphQL",
+        "Docker",
+        "GCP",
+        "CI/CD",
+        "React",
+        "TypeScript",
+        "CSS",
+        "Tailwind",
+        "Java"
+      ],
+      "project_summary": "Built agentic workflows with tool calling and orchestration.",
+      "github_summary": "No GitHub profile provided on resume.",
+      "strengths": [
+        "Evidence of advanced agentic systems, tool calling, or multi-agent workflows",
+        "Includes LLM / RAG evaluation logic",
+        "Strong FastAPI backend implementation"
+      ],
+      "concerns": [
+        "Limited or missing Redis/caching experience"
+      ],
+      "applied_penalties": [],
+      "file_name": "candidate_28.pdf"
+    },
+    {
+      "rank": 13,
+      "candidate_name": "Candidate 33",
+      "eligible": true,
+      "total_score": 67,
+      "score_breakdown": {
+        "ai_project_depth": 40,
+        "python_backend": 18,
+        "cloud_fullstack": 6,
+        "github": 0,
+        "engineering_depth": 3
+      },
+      "matched_skills": [
+        "LangChain",
+        "LangGraph",
+        "LlamaIndex",
+        "RAG",
+        "ChromaDB",
+        "Chroma",
+        "Weaviate",
+        "Tool Calling",
+        "Transformers",
+        "Fine-tuning",
+        "Python",
+        "FastAPI",
+        "AsyncIO",
+        "Flask",
+        "REST API",
+        "Docker",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "project_summary": "Built agentic workflows with tool calling and orchestration.",
+      "github_summary": "GitHub profile @education was not found (404).",
+      "strengths": [
+        "Evidence of advanced agentic systems, tool calling, or multi-agent workflows",
+        "Includes LLM / RAG evaluation logic",
+        "Strong FastAPI backend implementation"
+      ],
+      "concerns": [
+        "Limited or missing Redis/caching experience"
+      ],
+      "applied_penalties": [],
+      "file_name": "candidate_33.pdf"
+    },
+    {
+      "rank": 14,
+      "candidate_name": "PRIYANSHU KUMAR",
+      "eligible": true,
+      "total_score": 66,
+      "score_breakdown": {
+        "ai_project_depth": 36,
+        "python_backend": 22,
+        "cloud_fullstack": 2,
+        "github": 5,
+        "engineering_depth": 1
+      },
+      "matched_skills": [
+        "LangChain",
+        "LangGraph",
+        "CrewAI",
+        "RAG",
+        "Pinecone",
+        "Embeddings",
+        "Tool Calling",
+        "Multi-Agent",
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "Postgres",
+        "Kafka",
+        "React",
+        "JavaScript",
+        "Node.js"
+      ],
+      "project_summary": "Built agentic workflows with tool calling and orchestration.",
+      "github_summary": "Low recent public commit activity; 14 maintained Python/AI repositories.",
+      "strengths": [
+        "Evidence of advanced agentic systems, tool calling, or multi-agent workflows",
+        "Strong FastAPI backend implementation"
+      ],
+      "concerns": [
+        "Limited or missing Redis/caching experience"
+      ],
+      "applied_penalties": [],
+      "file_name": "candidate_16.pdf"
+    },
+    {
+      "rank": 15,
+      "candidate_name": "PRAJWAL A S",
+      "eligible": true,
+      "total_score": 65,
+      "score_breakdown": {
+        "ai_project_depth": 32,
+        "python_backend": 26,
+        "cloud_fullstack": 2,
+        "github": 5,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "LangChain",
+        "LangGraph",
+        "RAG",
+        "Embeddings",
+        "Multi-Agent",
+        "Python",
+        "FastAPI",
+        "AsyncIO",
+        "Flask",
+        "PostgreSQL",
+        "Postgres",
+        "SQLAlchemy",
+        "REST API",
+        "Pydantic",
+        "Linux",
+        "React",
+        "JavaScript",
+        "HTML"
+      ],
+      "project_summary": "Built agentic workflows with tool calling and orchestration.",
+      "github_summary": "Low recent public commit activity; 7 maintained Python/AI repositories.",
+      "strengths": [
+        "Evidence of advanced agentic systems, tool calling, or multi-agent workflows",
+        "Strong FastAPI backend implementation"
+      ],
+      "concerns": [
+        "Limited or missing Redis/caching experience"
+      ],
+      "applied_penalties": [],
+      "file_name": "candidate_22.pdf"
+    },
+    {
+      "rank": 16,
+      "candidate_name": "Jyandeep Baishya",
+      "eligible": true,
+      "total_score": 64,
+      "score_breakdown": {
+        "ai_project_depth": 40,
+        "python_backend": 20,
+        "cloud_fullstack": 2,
+        "github": 1,
+        "engineering_depth": 1
+      },
+      "matched_skills": [
+        "LangChain",
+        "LangGraph",
+        "RAG",
+        "Retrieval-Augmented Generation",
+        "ChromaDB",
+        "Chroma",
+        "Tool Calling",
+        "Multi-Agent",
+        "Python",
+        "FastAPI",
+        "Redis",
+        "REST API",
+        "Pydantic",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Node.js",
+        "HTML",
+        "CSS",
+        "Tailwind"
+      ],
+      "project_summary": "Built agentic workflows with tool calling and orchestration.",
+      "github_summary": "Low recent public commit activity; 18 public repositories.",
+      "strengths": [
+        "Evidence of advanced agentic systems, tool calling, or multi-agent workflows",
+        "Includes LLM / RAG evaluation logic",
+        "Strong FastAPI backend implementation"
+      ],
+      "concerns": [],
+      "applied_penalties": [],
+      "file_name": "candidate_07.pdf"
+    },
+    {
+      "rank": 17,
+      "candidate_name": "PAVANI A",
+      "eligible": true,
+      "total_score": 64,
+      "score_breakdown": {
+        "ai_project_depth": 26,
+        "python_backend": 18,
+        "cloud_fullstack": 10,
+        "github": 10,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Evaluation",
+        "TensorFlow",
+        "Python",
+        "FastAPI",
+        "Flask",
+        "Django",
+        "PostgreSQL",
+        "Postgres",
+        "REST API",
+        "Docker",
+        "CI/CD",
+        "React",
+        "Next.js",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Java"
+      ],
+      "project_summary": "Developed RAG retrieval system with vector database integration.",
+      "github_summary": "Recently active (30 events in last 90 days); 5 maintained Python/AI repositories.",
+      "strengths": [
+        "Practical exposure to RAG pipelines and vector database retrieval",
+        "Includes LLM / RAG evaluation logic",
+        "Strong FastAPI backend implementation"
+      ],
+      "concerns": [
+        "Limited or missing Redis/caching experience"
+      ],
+      "applied_penalties": [],
+      "file_name": "candidate_38.pdf"
+    },
+    {
+      "rank": 18,
+      "candidate_name": "Aditi Kala",
+      "eligible": true,
+      "total_score": 61,
+      "score_breakdown": {
+        "ai_project_depth": 18,
+        "python_backend": 18,
+        "cloud_fullstack": 13,
+        "github": 10,
+        "engineering_depth": 2
+      },
+      "matched_skills": [
+        "PyTorch",
+        "TensorFlow",
+        "Python",
+        "FastAPI",
+        "Flask",
+        "PostgreSQL",
+        "Postgres",
+        "Docker",
+        "Google Cloud",
+        "React",
+        "Node.js",
+        "Tailwind",
+        "Java"
+      ],
+      "project_summary": "Developed RAG retrieval system with vector database integration.",
+      "github_summary": "Recently active (30 events in last 90 days); 11 maintained Python/AI repositories.",
+      "strengths": [
+        "Practical exposure to RAG pipelines and vector database retrieval",
+        "Strong FastAPI backend implementation",
+        "Docker containerization experience"
+      ],
+      "concerns": [
+        "Limited or missing Redis/caching experience"
+      ],
+      "applied_penalties": [],
+      "file_name": "candidate_37.pdf"
+    },
+    {
+      "rank": 19,
+      "candidate_name": "Candidate 47",
+      "eligible": true,
+      "total_score": 60,
+      "score_breakdown": {
+        "ai_project_depth": 36,
+        "python_backend": 10,
+        "cloud_fullstack": 12,
+        "github": 1,
+        "engineering_depth": 1
+      },
+      "matched_skills": [
+        "LangChain",
+        "LangGraph",
+        "RAG",
+        "Multi-Agent",
+        "Evaluation",
+        "Transformers",
+        "Python",
+        "FastAPI",
+        "Pydantic",
+        "Docker",
+        "AWS",
+        "React",
+        "Next.js",
+        "JavaScript",
+        "Node.js",
+        "CSS",
+        "Tailwind"
+      ],
+      "project_summary": "Built agentic workflows with tool calling and orchestration.",
+      "github_summary": "Low recent public commit activity; 8 public repositories.",
+      "strengths": [
+        "Evidence of advanced agentic systems, tool calling, or multi-agent workflows",
+        "Includes LLM / RAG evaluation logic",
+        "Strong FastAPI backend implementation"
+      ],
+      "concerns": [
+        "Limited or missing Redis/caching experience"
+      ],
+      "applied_penalties": [],
+      "file_name": "candidate_47.pdf"
+    },
+    {
+      "rank": 20,
+      "candidate_name": "KRISHAN KANT",
+      "eligible": true,
+      "total_score": 59,
+      "score_breakdown": {
+        "ai_project_depth": 30,
+        "python_backend": 18,
+        "cloud_fullstack": 8,
+        "github": 0,
+        "engineering_depth": 3
+      },
+      "matched_skills": [
+        "LangChain",
+        "RAG",
+        "Vector Search",
+        "Python",
+        "PostgreSQL",
+        "Postgres",
+        "Redis",
+        "Kafka",
+        "REST API",
+        "Docker",
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Java",
+        "Spring Boot",
+        "Kotlin"
+      ],
+      "project_summary": "Developed RAG retrieval system with vector database integration.",
+      "github_summary": "GitHub profile @professional was not found (404).",
+      "strengths": [
+        "Practical exposure to RAG pipelines and vector database retrieval",
+        "Includes LLM / RAG evaluation logic",
+        "Docker containerization experience"
+      ],
+      "concerns": [],
+      "applied_penalties": [],
+      "file_name": "candidate_09.pdf"
+    },
+    {
+      "rank": 21,
+      "candidate_name": "Thejeshwaar Paasila",
+      "eligible": true,
+      "total_score": 59,
+      "score_breakdown": {
+        "ai_project_depth": 22,
+        "python_backend": 18,
+        "cloud_fullstack": 15,
+        "github": 2,
+        "engineering_depth": 2
+      },
+      "matched_skills": [
+        "RAG",
+        "Transformers",
+        "Python",
+        "Flask",
+        "PostgreSQL",
+        "Postgres",
+        "SQLAlchemy",
+        "REST API",
+        "Docker",
+        "Google Cloud",
+        "CI/CD",
+        "Linux",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "CSS",
+        "Tailwind"
+      ],
+      "project_summary": "Developed RAG retrieval system with vector database integration.",
+      "github_summary": "Low recent public commit activity; 1 maintained Python/AI repositories.",
+      "strengths": [
+        "Practical exposure to RAG pipelines and vector database retrieval",
+        "Docker containerization experience"
+      ],
+      "concerns": [
+        "Limited or missing Redis/caching experience"
+      ],
+      "applied_penalties": [],
+      "file_name": "candidate_26.pdf"
+    },
+    {
+      "rank": 22,
+      "candidate_name": "SHUBHANSHU NAVADIYA",
+      "eligible": true,
+      "total_score": 58,
+      "score_breakdown": {
+        "ai_project_depth": 40,
+        "python_backend": 14,
+        "cloud_fullstack": 2,
+        "github": 0,
+        "engineering_depth": 2
+      },
+      "matched_skills": [
+        "LangChain",
+        "LlamaIndex",
+        "CrewAI",
+        "AutoGen",
+        "RAG",
+        "Qdrant",
+        "Weaviate",
+        "Embeddings",
+        "Multi-Agent",
+        "Evaluation",
+        "PyTorch",
+        "Transformers",
+        "Python",
+        "FastAPI",
+        "REST API",
+        "GitHub Actions"
+      ],
+      "project_summary": "Built agentic workflows with tool calling and orchestration.",
+      "github_summary": "GitHub profile @professional was not found (404).",
+      "strengths": [
+        "Evidence of advanced agentic systems, tool calling, or multi-agent workflows",
+        "Includes LLM / RAG evaluation logic",
+        "Strong FastAPI backend implementation"
+      ],
+      "concerns": [
+        "Limited or missing Redis/caching experience"
+      ],
+      "applied_penalties": [],
+      "file_name": "candidate_12.pdf"
+    },
+    {
+      "rank": 23,
+      "candidate_name": "Vivek Shekhawat",
+      "eligible": true,
+      "total_score": 58,
+      "score_breakdown": {
+        "ai_project_depth": 32,
+        "python_backend": 18,
+        "cloud_fullstack": 2,
+        "github": 4,
+        "engineering_depth": 2
+      },
+      "matched_skills": [
+        "LangChain",
+        "LangGraph",
+        "RAG",
+        "Vector Search",
+        "Embeddings",
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Postgres",
+        "REST API",
+        "React",
+        "Next.js",
+        "JavaScript",
+        "Node.js",
+        "Java",
+        "Go"
+      ],
+      "project_summary": "Built agentic workflows with tool calling and orchestration.",
+      "github_summary": "Low recent public commit activity; 3 maintained Python/AI repositories.",
+      "strengths": [
+        "Evidence of advanced agentic systems, tool calling, or multi-agent workflows"
+      ],
+      "concerns": [
+        "Limited or missing Redis/caching experience"
+      ],
+      "applied_penalties": [],
+      "file_name": "candidate_39.pdf"
+    },
+    {
+      "rank": 24,
+      "candidate_name": "Candidate 45",
+      "eligible": true,
+      "total_score": 57,
+      "score_breakdown": {
+        "ai_project_depth": 22,
+        "python_backend": 20,
+        "cloud_fullstack": 14,
+        "github": 0,
+        "engineering_depth": 1
+      },
+      "matched_skills": [
+        "Python",
+        "Flask",
+        "Django",
+        "Redis",
+        "Kafka",
+        "GraphQL",
+        "Docker",
+        "AWS",
+        "Azure",
+        "CI/CD",
+        "Linux",
+        "React",
+        "JavaScript",
+        "Node.js",
+        "CSS",
+        "Tailwind",
+        "PHP"
+      ],
+      "project_summary": "Developed RAG retrieval system with vector database integration.",
+      "github_summary": "GitHub profile @professional was not found (404).",
+      "strengths": [
+        "Practical exposure to RAG pipelines and vector database retrieval",
+        "Docker containerization experience"
+      ],
+      "concerns": [],
+      "applied_penalties": [],
+      "file_name": "candidate_45.pdf"
+    },
+    {
+      "rank": 25,
+      "candidate_name": "RAJ THUMAR",
+      "eligible": true,
+      "total_score": 57,
+      "score_breakdown": {
+        "ai_project_depth": 18,
+        "python_backend": 24,
+        "cloud_fullstack": 14,
+        "github": 0,
+        "engineering_depth": 1
+      },
+      "matched_skills": [
+        "RAG",
+        "Python",
+        "Flask",
+        "PostgreSQL",
+        "Postgres",
+        "Redis",
+        "Kafka",
+        "REST API",
+        "GraphQL",
+        "Docker",
+        "AWS",
+        "GitHub Actions",
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        ".NET"
+      ],
+      "project_summary": "Developed RAG retrieval system with vector database integration.",
+      "github_summary": "Low recent public commit activity; 0 public repositories.",
+      "strengths": [
+        "Practical exposure to RAG pipelines and vector database retrieval",
+        "Docker containerization experience"
+      ],
+      "concerns": [],
+      "applied_penalties": [],
+      "file_name": "candidate_40.pdf"
+    },
+    {
+      "rank": 26,
+      "candidate_name": "M SAI KUSHITH",
+      "eligible": true,
+      "total_score": 52,
+      "score_breakdown": {
+        "ai_project_depth": 32,
+        "python_backend": 18,
+        "cloud_fullstack": 2,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "LangChain",
+        "LangGraph",
+        "RAG",
+        "Python",
+        "FastAPI",
+        "Django",
+        "PostgreSQL",
+        "Postgres",
+        "REST API",
+        "Linux",
+        "React",
+        "TypeScript",
+        "Java"
+      ],
+      "project_summary": "Built agentic workflows with tool calling and orchestration.",
+      "github_summary": "GitHub profile @summary was not found (404).",
+      "strengths": [
+        "Evidence of advanced agentic systems, tool calling, or multi-agent workflows",
+        "Strong FastAPI backend implementation"
+      ],
+      "concerns": [
+        "Limited or missing Redis/caching experience"
+      ],
+      "applied_penalties": [],
+      "file_name": "candidate_06.pdf"
+    },
+    {
+      "rank": 27,
+      "candidate_name": "ANNISHA S",
+      "eligible": true,
+      "total_score": 52,
+      "score_breakdown": {
+        "ai_project_depth": 28,
+        "python_backend": 18,
+        "cloud_fullstack": 6,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "LangGraph",
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "Postgres",
+        "REST API",
+        "Azure",
+        "React"
+      ],
+      "project_summary": "Built agentic workflows with tool calling and orchestration.",
+      "github_summary": "GitHub profile @annishasaravan was not found (404).",
+      "strengths": [
+        "Evidence of advanced agentic systems, tool calling, or multi-agent workflows",
+        "Strong FastAPI backend implementation"
+      ],
+      "concerns": [
+        "Limited or missing Redis/caching experience"
+      ],
+      "applied_penalties": [],
+      "file_name": "candidate_23.pdf"
+    },
+    {
+      "rank": 28,
+      "candidate_name": "GitHub LeetCode",
+      "eligible": true,
+      "total_score": 50,
+      "score_breakdown": {
+        "ai_project_depth": 26,
+        "python_backend": 10,
+        "cloud_fullstack": 12,
+        "github": 1,
+        "engineering_depth": 1
+      },
+      "matched_skills": [
+        "RAG",
+        "Retrieval-Augmented Generation",
+        "Evaluation",
+        "PyTorch",
+        "TensorFlow",
+        "Transformers",
+        "Python",
+        "Flask",
+        "Docker",
+        "AWS",
+        "React",
+        "JavaScript",
+        "Java"
+      ],
+      "project_summary": "Developed RAG retrieval system with vector database integration.",
+      "github_summary": "Low recent public commit activity; 18 public repositories.",
+      "strengths": [
+        "Practical exposure to RAG pipelines and vector database retrieval",
+        "Includes LLM / RAG evaluation logic",
+        "Docker containerization experience"
+      ],
+      "concerns": [
+        "Limited or missing Redis/caching experience"
+      ],
+      "applied_penalties": [],
+      "file_name": "candidate_19.pdf"
+    },
+    {
+      "rank": 29,
+      "candidate_name": "Saif Ali Nagori",
+      "eligible": true,
+      "total_score": 49,
+      "score_breakdown": {
+        "ai_project_depth": 26,
+        "python_backend": 14,
+        "cloud_fullstack": 2,
+        "github": 7,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "RAG",
+        "Python",
+        "FastAPI",
+        "Flask",
+        "React",
+        "JavaScript",
+        "Node.js",
+        "HTML",
+        "CSS",
+        "Tailwind"
+      ],
+      "project_summary": "Developed RAG retrieval system with vector database integration.",
+      "github_summary": "Recently active (2 events in last 90 days); 9 maintained Python/AI repositories.",
+      "strengths": [
+        "Practical exposure to RAG pipelines and vector database retrieval",
+        "Includes LLM / RAG evaluation logic",
+        "Strong FastAPI backend implementation"
+      ],
+      "concerns": [
+        "Limited or missing Redis/caching experience"
+      ],
+      "applied_penalties": [],
+      "file_name": "candidate_36.pdf"
+    },
+    {
+      "rank": 30,
+      "candidate_name": "Atul KumarDehradun, Uttarakhand, India",
+      "eligible": true,
+      "total_score": 42,
+      "score_breakdown": {
+        "ai_project_depth": 22,
+        "python_backend": 10,
+        "cloud_fullstack": 5,
+        "github": 5,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Python",
+        "Flask",
+        "REST API",
+        "GCP",
+        "Google Cloud",
+        "HTML",
+        "CSS"
+      ],
+      "project_summary": "Developed RAG retrieval system with vector database integration.",
+      "github_summary": "Low recent public commit activity; 7 maintained Python/AI repositories.",
+      "strengths": [
+        "Practical exposure to RAG pipelines and vector database retrieval"
+      ],
+      "concerns": [
+        "Limited or missing Redis/caching experience"
+      ],
+      "applied_penalties": [],
+      "file_name": "candidate_25.pdf"
+    },
+    {
+      "rank": 31,
+      "candidate_name": "VISHWAS BADIGER",
+      "eligible": true,
+      "total_score": 38,
+      "score_breakdown": {
+        "ai_project_depth": 26,
+        "python_backend": 10,
+        "cloud_fullstack": 2,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Python",
+        "Flask",
+        "REST API",
+        "React",
+        "JavaScript",
+        "Node.js",
+        "HTML",
+        "CSS",
+        "Java",
+        "Spring Boot",
+        "PHP"
+      ],
+      "project_summary": "Developed RAG retrieval system with vector database integration.",
+      "github_summary": "No GitHub profile provided on resume.",
+      "strengths": [
+        "Practical exposure to RAG pipelines and vector database retrieval",
+        "Includes LLM / RAG evaluation logic"
+      ],
+      "concerns": [
+        "Limited or missing Redis/caching experience"
+      ],
+      "applied_penalties": [],
+      "file_name": "candidate_05.pdf"
+    },
+    {
+      "rank": 32,
+      "candidate_name": "Aswin Raj R",
+      "eligible": true,
+      "total_score": 36,
+      "score_breakdown": {
+        "ai_project_depth": 26,
+        "python_backend": 4,
+        "cloud_fullstack": 6,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "LangChain",
+        "RAG",
+        "TensorFlow",
+        "Python",
+        "REST API",
+        "AWS",
+        "Linux",
+        "React",
+        "JavaScript",
+        "Node.js",
+        "HTML",
+        "CSS",
+        "Java",
+        "Spring Boot"
+      ],
+      "project_summary": "Developed RAG retrieval system with vector database integration.",
+      "github_summary": "No GitHub profile provided on resume.",
+      "strengths": [
+        "Practical exposure to RAG pipelines and vector database retrieval"
+      ],
+      "concerns": [
+        "Limited or missing Redis/caching experience"
+      ],
+      "applied_penalties": [],
+      "file_name": "candidate_49.pdf"
+    },
+    {
+      "rank": 33,
+      "candidate_name": "Satwik Srivastava",
+      "eligible": true,
+      "total_score": 34,
+      "score_breakdown": {
+        "ai_project_depth": 26,
+        "python_backend": 4,
+        "cloud_fullstack": 2,
+        "github": 0,
+        "engineering_depth": 2
+      },
+      "matched_skills": [
+        "LangChain",
+        "Python",
+        "REST API",
+        "React",
+        "Next.js",
+        "JavaScript",
+        "Node.js",
+        "HTML",
+        "CSS",
+        "Tailwind",
+        "Java"
+      ],
+      "project_summary": "Developed RAG retrieval system with vector database integration.",
+      "github_summary": "GitHub API rate limit reached; enrichment skipped gracefully.",
+      "strengths": [
+        "Practical exposure to RAG pipelines and vector database retrieval"
+      ],
+      "concerns": [
+        "Limited or missing Redis/caching experience"
+      ],
+      "applied_penalties": [],
+      "file_name": "satwik.pdf"
+    },
+    {
+      "rank": 34,
+      "candidate_name": "VIKRAM MADHYASTA",
+      "eligible": true,
+      "total_score": 34,
+      "score_breakdown": {
+        "ai_project_depth": 22,
+        "python_backend": 0,
+        "cloud_fullstack": 12,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Python",
+        "REST API",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "GitHub Actions",
+        "Terraform",
+        "Linux",
+        "Java"
+      ],
+      "project_summary": "Developed RAG retrieval system with vector database integration.",
+      "github_summary": "GitHub profile @professional was not found (404).",
+      "strengths": [
+        "Practical exposure to RAG pipelines and vector database retrieval",
+        "Docker containerization experience"
+      ],
+      "concerns": [
+        "Limited or missing Redis/caching experience"
+      ],
+      "applied_penalties": [],
+      "file_name": "candidate_29.pdf"
+    },
+    {
+      "rank": 35,
+      "candidate_name": "DORNIPADU KARTHIKA CHAITRIKA",
+      "eligible": true,
+      "total_score": 33,
+      "score_breakdown": {
+        "ai_project_depth": 22,
+        "python_backend": 6,
+        "cloud_fullstack": 0,
+        "github": 5,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "RAG",
+        "Embeddings",
+        "Python",
+        "Flask",
+        "Django",
+        "JavaScript"
+      ],
+      "project_summary": "Developed RAG retrieval system with vector database integration.",
+      "github_summary": "Low recent public commit activity; 11 maintained Python/AI repositories.",
+      "strengths": [
+        "Practical exposure to RAG pipelines and vector database retrieval",
+        "Includes LLM / RAG evaluation logic"
+      ],
+      "concerns": [
+        "Limited or missing Redis/caching experience"
+      ],
+      "applied_penalties": [],
+      "file_name": "candidate_24.pdf"
+    },
+    {
+      "rank": 36,
+      "candidate_name": "NISARGA H. S.",
+      "eligible": true,
+      "total_score": 28,
+      "score_breakdown": {
+        "ai_project_depth": 22,
+        "python_backend": 4,
+        "cloud_fullstack": 2,
+        "github": 0,
+        "engineering_depth": 0
+      },
+      "matched_skills": [
+        "Python",
+        "REST API",
+        "CI/CD",
+        "Linux",
+        "Node.js",
+        "Java"
+      ],
+      "project_summary": "Developed RAG retrieval system with vector database integration.",
+      "github_summary": "GitHub profile @copilot was not found (404).",
+      "strengths": [
+        "Practical exposure to RAG pipelines and vector database retrieval"
+      ],
+      "concerns": [
+        "Limited or missing Redis/caching experience"
+      ],
+      "applied_penalties": [],
+      "file_name": "candidate_34.pdf"
+    }
+  ],
+  "rejected_candidates": [
+    {
+      "candidate": "Kartikay Sinha",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack (Python must be a genuine skill, project, or work language)",
+        "No AI/agentic project or framework evidence (Missing RAG, agents, LangChain/LangGraph, embeddings, or LLM systems)"
+      ],
+      "matched_skills": [
+        "REST API",
+        "Docker",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "HTML",
+        "CSS",
+        "Tailwind"
+      ],
+      "file_name": "candidate_01.pdf"
+    },
+    {
+      "candidate": "SHIVAM RAJ",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack (Python must be a genuine skill, project, or work language)",
+        "No AI/agentic project or framework evidence (Missing RAG, agents, LangChain/LangGraph, embeddings, or LLM systems)"
+      ],
+      "matched_skills": [
+        "REST API",
+        "Docker",
+        "Azure",
+        "CI/CD",
+        "GitHub Actions",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "CSS",
+        "Tailwind"
+      ],
+      "file_name": "candidate_02.pdf"
+    },
+    {
+      "candidate": "Agam Jain",
+      "eligible": false,
+      "rejection_reasons": [
+        "No AI/agentic project or framework evidence (Missing RAG, agents, LangChain/LangGraph, embeddings, or LLM systems)"
+      ],
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "Postgres",
+        "Redis",
+        "REST API",
+        "GraphQL",
+        "Docker",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "HTML",
+        "CSS",
+        "Tailwind",
+        "Java",
+        "Spring Boot"
+      ],
+      "file_name": "candidate_03.pdf"
+    },
+    {
+      "candidate": "Yuvaraj R",
+      "eligible": false,
+      "rejection_reasons": [
+        "No AI/agentic project or framework evidence (Missing RAG, agents, LangChain/LangGraph, embeddings, or LLM systems)"
+      ],
+      "matched_skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Postgres",
+        "REST API",
+        "Docker",
+        "Java"
+      ],
+      "file_name": "candidate_04.pdf"
+    },
+    {
+      "candidate": "MD AZIZUL ISLAM",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack (Python must be a genuine skill, project, or work language)"
+      ],
+      "matched_skills": [
+        "RAG",
+        "Retrieval-Augmented Generation",
+        "Embeddings",
+        "PostgreSQL",
+        "Postgres",
+        "Redis",
+        "REST API",
+        "AWS",
+        "CI/CD",
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "CSS",
+        "Tailwind"
+      ],
+      "file_name": "candidate_11.pdf"
+    },
+    {
+      "candidate": "JAYA NANDI",
+      "eligible": false,
+      "rejection_reasons": [
+        "No AI/agentic project or framework evidence (Missing RAG, agents, LangChain/LangGraph, embeddings, or LLM systems)"
+      ],
+      "matched_skills": [
+        "Python",
+        "REST API",
+        "AWS",
+        "React",
+        "JavaScript",
+        "Java"
+      ],
+      "file_name": "candidate_14.pdf"
+    },
+    {
+      "candidate": "Harshit Kumar Mishra",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack (Python must be a genuine skill, project, or work language)",
+        "No AI/agentic project or framework evidence (Missing RAG, agents, LangChain/LangGraph, embeddings, or LLM systems)"
+      ],
+      "matched_skills": [
+        "PostgreSQL",
+        "Postgres",
+        "Redis",
+        "GraphQL",
+        "Docker",
+        "GCP",
+        "AWS",
+        "CI/CD",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "CSS",
+        "Tailwind"
+      ],
+      "file_name": "candidate_18.pdf"
+    },
+    {
+      "candidate": "Candidate 20",
+      "eligible": false,
+      "rejection_reasons": [
+        "No AI/agentic project or framework evidence (Missing RAG, agents, LangChain/LangGraph, embeddings, or LLM systems)"
+      ],
+      "matched_skills": [
+        "Python",
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "file_name": "candidate_20.pdf"
+    },
+    {
+      "candidate": "Higher Secondary: Science- PCMB",
+      "eligible": false,
+      "rejection_reasons": [
+        "No AI/agentic project or framework evidence (Missing RAG, agents, LangChain/LangGraph, embeddings, or LLM systems)"
+      ],
+      "matched_skills": [
+        "Evaluation",
+        "PyTorch",
+        "TensorFlow",
+        "Python",
+        "Flask",
+        "REST API",
+        "React",
+        "Java"
+      ],
+      "file_name": "candidate_21.pdf"
+    },
+    {
+      "candidate": "Gayathri Palraj",
+      "eligible": false,
+      "rejection_reasons": [
+        "No AI/agentic project or framework evidence (Missing RAG, agents, LangChain/LangGraph, embeddings, or LLM systems)"
+      ],
+      "matched_skills": [
+        "Python",
+        "REST API",
+        "CI/CD",
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "CSS",
+        "Tailwind",
+        "Java"
+      ],
+      "file_name": "candidate_27.pdf"
+    },
+    {
+      "candidate": "Shreya Chauhan",
+      "eligible": false,
+      "rejection_reasons": [
+        "No AI/agentic project or framework evidence (Missing RAG, agents, LangChain/LangGraph, embeddings, or LLM systems)"
+      ],
+      "matched_skills": [
+        "Python",
+        "Redis",
+        "Kafka",
+        "REST API",
+        "React",
+        "JavaScript",
+        "Node.js",
+        "CSS",
+        "Tailwind",
+        "Java",
+        "Spring Boot"
+      ],
+      "file_name": "candidate_31.pdf"
+    },
+    {
+      "candidate": "Mukul Pal",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack (Python must be a genuine skill, project, or work language)"
+      ],
+      "matched_skills": [
+        "PostgreSQL",
+        "Postgres",
+        "Redis",
+        "REST API",
+        "Docker",
+        "AWS",
+        "CI/CD",
+        "GitHub Actions",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js"
+      ],
+      "file_name": "candidate_32.pdf"
+    },
+    {
+      "candidate": "ANJALI PATIL",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack (Python must be a genuine skill, project, or work language)",
+        "No AI/agentic project or framework evidence (Missing RAG, agents, LangChain/LangGraph, embeddings, or LLM systems)"
+      ],
+      "matched_skills": [
+        "PostgreSQL",
+        "Postgres",
+        "Redis",
+        "REST API",
+        "Docker",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Java",
+        "Spring Boot"
+      ],
+      "file_name": "candidate_42.pdf"
+    },
+    {
+      "candidate": "AABHAR GUPTA",
+      "eligible": false,
+      "rejection_reasons": [
+        "No evidence of Python stack (Python must be a genuine skill, project, or work language)",
+        "No AI/agentic project or framework evidence (Missing RAG, agents, LangChain/LangGraph, embeddings, or LLM systems)"
+      ],
+      "matched_skills": [
+        "PostgreSQL",
+        "Postgres",
+        "Redis",
+        "REST API",
+        "Google Cloud",
+        "CI/CD",
+        "React",
+        "JavaScript",
+        "Node.js",
+        "Tailwind"
+      ],
+      "file_name": "candidate_46.pdf"
+    },
+    {
+      "candidate": "NIDHI KM",
+      "eligible": false,
+      "rejection_reasons": [
+        "No AI/agentic project or framework evidence (Missing RAG, agents, LangChain/LangGraph, embeddings, or LLM systems)"
+      ],
+      "matched_skills": [
+        "TensorFlow",
+        "Python",
+        "REST API",
+        "AWS",
+        "React",
+        "JavaScript",
+        "Java",
+        "Spring Boot"
+      ],
+      "file_name": "candidate_48.pdf"
+    }
+  ],
+  "failed_files": []
+}
