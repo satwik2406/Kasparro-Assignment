@@ -32,6 +32,9 @@ _LATEST_REPORT: Optional[ScreeningReport] = None
 
 # Auto-load existing results.json if available
 results_file = Path("./output/results.json")
+if not results_file.exists():
+    results_file = Path(__file__).resolve().parent.parent / "output" / "results.json"
+
 if results_file.exists():
     try:
         with open(results_file, "r", encoding="utf-8") as f:
@@ -78,7 +81,16 @@ async def upload_and_screen(files: List[UploadFile] = File(...)):
     """
     global _LATEST_REPORT
     resumes_dir = Path("./resumes")
-    resumes_dir.mkdir(parents=True, exist_ok=True)
+    try:
+        resumes_dir.mkdir(parents=True, exist_ok=True)
+        # Test write permission for serverless environments (e.g. Vercel)
+        test_file = resumes_dir / ".perm_check"
+        test_file.touch()
+        test_file.unlink()
+    except (PermissionError, OSError):
+        import tempfile
+        resumes_dir = Path(tempfile.gettempdir()) / "resumes"
+        resumes_dir.mkdir(parents=True, exist_ok=True)
 
     allowed_exts = {".pdf", ".docx", ".doc", ".txt", ".md"}
 
@@ -99,9 +111,14 @@ async def upload_and_screen(files: List[UploadFile] = File(...)):
     report = await pipeline.run(resumes_dir)
     _LATEST_REPORT = report
 
-    # Export to results.json
+    # Export to results.json (fallback to temp directory if root is read-only)
     output_path = Path("./output/results.json")
-    pipeline.export_json(report, output_path)
+    try:
+        pipeline.export_json(report, output_path)
+    except (PermissionError, OSError):
+        import tempfile
+        output_path = Path(tempfile.gettempdir()) / "output" / "results.json"
+        pipeline.export_json(report, output_path)
 
     return report
 
