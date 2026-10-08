@@ -15,6 +15,7 @@ from rich.text import Text
 
 from src.pipeline import ScreeningPipeline
 from src.config import settings
+from src.api import app
 
 # Configure UTF-8 encoding for Windows console compatibility
 if sys.platform == "win32":

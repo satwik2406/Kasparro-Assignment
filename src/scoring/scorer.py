@@ -5,7 +5,7 @@ Explainable, evidence-backed, with explicit penalties for thin wrappers and tuto
 """
 
 import re
-from typing import List, Tuple
+from typing import List, Tuple, Optional
 from src.models import ParsedResume, GitHubSignal, ScoreBreakdown, ScoredCandidate
 from src.llm.adapter import LLMAdapter, LLMScoringOutput
 from src.config import settings
@@ -86,7 +86,7 @@ class CandidateScorer:
         Score candidate. Attempts LLM scoring first; falls back to deterministic rule engine seamlessly.
         """
         # Try LLM if available
-        llm_output: LLMScoringOutput | None = None
+        llm_output: Optional[LLMScoringOutput] = None
         try:
             llm_output = await self.llm_adapter.score_resume(
                 candidate_name=parsed.candidate_name,
